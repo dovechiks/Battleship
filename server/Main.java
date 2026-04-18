@@ -9,7 +9,7 @@ import java.net.Socket;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        String[] mainArray = new String[1000];
+        String[] mainArray = new String[1001];
         String address = "127.0.0.1";
         int port = 33333;
 
